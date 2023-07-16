@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: meddhia54/my-nginx:1.1.0
+          image: meddhia54/my-nginx:1.2.2
           ports:
             - containerPort: 80 
